@@ -388,7 +388,6 @@ export default function TeacherDashboard({ user, blockchain, logs, onRefresh, on
                                                     style={{ background: 'none', border: 'none', color: 'var(--primary)', fontSize: '0.7rem', cursor: 'pointer', textDecoration: 'underline', padding: 0 }}>
                                                     Go to Today
                                                 </button>
-                                            )}
                                             
                                             <button 
                                                 onClick={() => setVerifyingSelf(true)}

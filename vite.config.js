@@ -40,6 +40,7 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,json}', '**/models/*shard*'],
+        maximumFileSizeToCacheInBytes: 5 * 1024 * 1024, // 5MB limit to support large face-api model shards
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
