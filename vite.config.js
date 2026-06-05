@@ -15,7 +15,7 @@ export default defineConfig({
         'apple-touch-icon.png',
         'mask-icon.svg',
         'models/*.json',
-        'models/*.shard*'
+        'models/*shard*'
       ],
       manifest: {
         name: 'Smart Attend Blockchain System',
@@ -40,7 +40,7 @@ export default defineConfig({
         ]
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,json,shard*}'],
+        globPatterns: ['**/*.{js,css,html,ico,png,svg,json}', '**/models/*shard*'],
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
