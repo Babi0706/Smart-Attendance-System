@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MQTT Frontend Test</title>
+    <!-- Import MQTT.js from CDN for simple HTML testing -->
+    <script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f9; }
+        .container { max-width: 500px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h2 { color: #333; }
+        #status { font-weight: bold; color: orange; margin-bottom: 20px; }
+        button { 
+            background-color: #007bff; color: white; border: none; 
+            padding: 10px 20px; font-size: 16px; border-radius: 5px; 
+            cursor: pointer; width: 100%; margin-bottom: 20px;
+        }
+        button:disabled { background-color: #ccc; cursor: not-allowed; }
+        button:hover:not(:disabled) { background-color: #0056b3; }
+        .log-box { 
+            background: #1e1e1e; color: #00ff00; padding: 10px; 
+            height: 150px; overflow-y: auto; font-family: monospace; border-radius: 5px; 
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Step 2: MQTT Frontend Test</h2>
+    <p>Status: <span id="status">Connecting...</span></p>
+    
+    <button id="verifyBtn" disabled>Verify Face (Trigger Scanner)</button>
+
+    <h3>Console Logs:</h3>
+    <div class="log-box" id="logs"></div>
+</div>
+
+<script>
+    // 1. Connect to HiveMQ Public Broker using secure WebSockets
+    const brokerUrl = 'wss://broker.hivemq.com:8884/mqtt';
+    const client = mqtt.connect(brokerUrl);
+    
+    const statusEl = document.getElementById('status');
+    const verifyBtn = document.getElementById('verifyBtn');
+    const logsEl = document.getElementById('logs');
+
+    function addLog(msg) {
+        console.log(msg);
+        logsEl.innerHTML += `<div>> ${msg}</div>`;
+        logsEl.scrollTop = logsEl.scrollHeight;
+    }
+
+    // 2. Handle Connection
+    client.on('connect', () => {
+        statusEl.textContent = 'CONNECTED to HiveMQ';
+        statusEl.style.color = 'green';
+        verifyBtn.disabled = false;
+        addLog('Connected to ' + brokerUrl);
+    });
+
+    client.on('error', (err) => {
+        statusEl.textContent = 'ERROR';
+        statusEl.style.color = 'red';
+        addLog('Connection error: ' + err.message);
+    });
+
+    // 3. Button Click Behavior
+    verifyBtn.addEventListener('click', () => {
+        const topic = 'iot/node1/cmd';
+        const message = 'START_SCAN';
+        
+        // Publish "START_SCAN" to trigger ESP8266
+        client.publish(topic, message, (err) => {
+            if (!err) {
+                addLog(`Published [${message}] to topic [${topic}]`);
+            } else {
+                addLog('Publish error: ' + err);
+            }
+        });
+    });
+</script>
+
+</body>
+</html>

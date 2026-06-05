@@ -1,0 +1,2095 @@
+[
+  {
+    "id": "09928406-364b-46e1-ab11-f13ecb03e3a8",
+    "day_of_week": "Friday",
+    "start_time": "09:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "1ca32343-4843-40a0-b1d2-a4c84c079775",
+    "day_of_week": "Friday",
+    "start_time": "09:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "14fb8ca7-bbf3-4da3-a3b9-d1d248339e4e",
+    "day_of_week": "Friday",
+    "start_time": "09:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "b6d67ed0-7038-4ea9-9c11-d392d65e5f26",
+    "day_of_week": "Friday",
+    "start_time": "09:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "8e9fca9e-bcf1-4d88-a295-2eea9a4c0fe5",
+    "day_of_week": "Friday",
+    "start_time": "09:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "77674271-4dfa-40b0-b801-365e77d311dd",
+    "day_of_week": "Friday",
+    "start_time": "09:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "40b68555-93b4-4f94-9a9e-81d8112f48c7",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "1791f57a-10df-4dfa-b6c1-c98d79671896",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "48db5462-6924-4d05-a941-1a353538f676",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "0eedf14d-02f7-4b1d-9dda-1afe8a047912",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "fe296824-5c42-4ba8-a247-aeff098f2ec9",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "5fb7ba44-ebbf-4495-93f0-05ed257ee40e",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "ecfe22a0-317a-4b5d-8330-373e8d5c1a21",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "db74f79f-63d9-4929-bbaf-ba29c3d8f17e",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "61112d22-1459-4e65-a779-a987c8852b5c",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "1de9da91-5497-442a-bf81-78f8005d7e2d",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f364db25-8cb1-4922-b23f-04bfa9049233",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "33caa02e-90ae-41a2-a8a8-4a31682d34b3",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c97d5285-dc54-4004-a555-2af2e8c0eb95",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "0e696d32-78fb-4d08-ba0b-d7d2074a5f69",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2fe6b997-c5ef-4b42-930d-423b28463c67",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6c19d942-6a7f-4e1d-a0e6-77105cbc4ec6",
+    "day_of_week": "Friday",
+    "start_time": "1:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "b861a0a3-e069-44cb-bcfc-3be5b5d73bc6",
+    "day_of_week": "Friday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSB3855",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "121cde83-9656-4ccd-9aad-289afdd15f29",
+    "day_of_week": "Friday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "d6174c93-52f9-47bf-86f0-ca5c7bc7b8d4",
+    "day_of_week": "Friday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "ee732028-4c48-4ef5-a391-b3528373da3a",
+    "day_of_week": "Friday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "55e2def2-536c-49d2-b49e-25e8d68e9e2b",
+    "day_of_week": "Friday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "837640fe-35f0-4358-abf5-653c2a563fe6",
+    "day_of_week": "Friday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "ec090dd2-096c-408c-b4cc-1caaf19261ee",
+    "day_of_week": "Friday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "ab08ebdd-ca65-444a-93b6-569e0a607e23",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "e80dd760-f26c-4324-a43f-2437ee602824",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "d5548fda-cdd3-439d-b4cc-119d36a27912",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "eef2573d-ae24-4d2e-9ac7-7e66778156d1",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "260fd243-f856-425a-ab25-5e3eec4bb0ba",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "a92c1fe0-0bce-4d71-9670-ce22be49d96c",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "e71608c8-f612-44ac-8e45-63f725dc7593",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2a75cee2-40dc-437c-af11-4c56c3f71181",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "4283b503-842e-4618-91f1-c08fe5d4463a",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6f3baede-7dfd-4321-aa33-15378741618b",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6e646d15-612f-4715-b5a0-41317a5a231b",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "b4c3af93-0c28-45f7-bb78-a2e7cbca545f",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f2b52fef-7338-4d28-a530-a85a0d8fa442",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "26bf2276-90c8-43f1-9a99-5e1247cddf03",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6d549f23-210f-4545-acc5-74212df5e619",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "d62396f0-5f68-468b-8865-47fd88fd9e3f",
+    "day_of_week": "Friday",
+    "start_time": "11:15 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "9bedaae4-62dc-42b1-9e95-154ee9af4be4",
+    "day_of_week": "Friday",
+    "start_time": "11:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "25627bda-d0ab-4d20-97e5-e75ca02ea9b8",
+    "day_of_week": "Friday",
+    "start_time": "11:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "729a0ca9-b942-43fb-bd4f-e7d75a9061a6",
+    "day_of_week": "Friday",
+    "start_time": "11:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "f1d8d052-1ad6-4ff5-a052-dbc6d6e899ea",
+    "day_of_week": "Friday",
+    "start_time": "11:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "d538880d-d3b1-4c5e-ba37-4092b89b4ecd",
+    "day_of_week": "Friday",
+    "start_time": "11:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "7330335e-a54c-44e3-8511-c2ebe4329e63",
+    "day_of_week": "Friday",
+    "start_time": "11:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "12082d18-940f-47f7-9856-59deb86c70a7",
+    "day_of_week": "Friday",
+    "start_time": "13:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "6b94b135-4b9f-4d10-9908-564ba88ed08d",
+    "day_of_week": "Friday",
+    "start_time": "13:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "8f734f27-b3ba-4156-a0da-a705f9f49441",
+    "day_of_week": "Friday",
+    "start_time": "13:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "7f9467f7-4453-4f96-b0ee-b2b193bb9a02",
+    "day_of_week": "Friday",
+    "start_time": "13:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "6665d090-0fbc-4aaa-9f84-2ea49e32070e",
+    "day_of_week": "Friday",
+    "start_time": "13:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "57e11c8c-ea0a-44b6-8d6a-677eaf3c69a1",
+    "day_of_week": "Friday",
+    "start_time": "13:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "169a07f6-e932-44db-9125-859a57db9f06",
+    "day_of_week": "Friday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "b810a59c-ad84-412e-a67c-b668e4c1ebab",
+    "day_of_week": "Friday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "3f688324-ac5e-45e8-ba27-89a96999e16c",
+    "day_of_week": "Friday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "a76b6623-5e89-429b-b1ef-52655ebb67c0",
+    "day_of_week": "Friday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "334784c6-7af4-4542-a306-89e2bcbb46a6",
+    "day_of_week": "Friday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "f3e21d07-2469-4519-8c72-ae9a95cd297b",
+    "day_of_week": "Friday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "f8e00ab1-5f94-449d-918c-0180517fbaea",
+    "day_of_week": "Friday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSB1662",
+    "teacher_uid": "TCH002"
+  },
+  {
+    "id": "9242a5b7-7774-499e-bfc2-efcb041f0a77",
+    "day_of_week": "Friday",
+    "start_time": "9:00 AM",
+    "subject_code": "S614BLH61",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "73ef998a-9977-4d40-9f89-438fbc50ca25",
+    "day_of_week": "Monday",
+    "start_time": "09:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "a16ce6b5-79e2-41fc-b972-4b0517f50640",
+    "day_of_week": "Monday",
+    "start_time": "09:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "50e45c96-cfed-403b-aed0-4e2d90629b96",
+    "day_of_week": "Monday",
+    "start_time": "09:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "ec0c7822-6459-46c6-b5f6-3d49c3a7d4c5",
+    "day_of_week": "Monday",
+    "start_time": "09:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "b12a16c3-890e-4e27-b2f8-7634b03ca08b",
+    "day_of_week": "Monday",
+    "start_time": "09:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "b96745b6-adc8-4ed9-a7bb-7df667997a82",
+    "day_of_week": "Monday",
+    "start_time": "09:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "538714c8-c420-4654-833e-fb8d8395dc9a",
+    "day_of_week": "Monday",
+    "start_time": "09:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "90514826-bbe0-470d-9492-2e7a9069852e",
+    "day_of_week": "Monday",
+    "start_time": "1:15 PM",
+    "subject_code": "S614BLH61",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "58c41cb9-0e1a-42de-8d20-da72e408b86e",
+    "day_of_week": "Monday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSB1662",
+    "teacher_uid": "TCH002"
+  },
+  {
+    "id": "db60db9e-23a2-4276-acbf-04faaaea3257",
+    "day_of_week": "Monday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "37326965-5dd5-4c96-a702-6995a30415f0",
+    "day_of_week": "Monday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "2e66d937-aec3-496d-ae75-1dfdb59cf63a",
+    "day_of_week": "Monday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "06f5e6e4-433d-4736-96e3-deae943d97d3",
+    "day_of_week": "Monday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "1ad0eb47-8495-49eb-a3f2-60b904db65c8",
+    "day_of_week": "Monday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "91e5784f-11fb-4b31-bf78-7ad8819f006d",
+    "day_of_week": "Monday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "da47eaa8-6487-41fe-a846-76ebd0d107e9",
+    "day_of_week": "Monday",
+    "start_time": "11:15 AM",
+    "subject_code": "S614BLH61",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "38ee1c7b-6a06-4d73-8fad-733a22a3659c",
+    "day_of_week": "Monday",
+    "start_time": "11:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "ca87ccea-e319-4e39-b16b-1f791646da24",
+    "day_of_week": "Monday",
+    "start_time": "11:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "9b513118-49ad-4f84-a69b-c41c3408a8a2",
+    "day_of_week": "Monday",
+    "start_time": "11:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "d2463978-4062-4069-ad94-d61d8099894a",
+    "day_of_week": "Monday",
+    "start_time": "11:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "c8002bef-2f41-463c-bf28-2546c6146f93",
+    "day_of_week": "Monday",
+    "start_time": "11:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "996f8366-1405-422a-bec3-ecfe63500943",
+    "day_of_week": "Monday",
+    "start_time": "11:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "afcaa762-c2c4-4138-8719-79fa66802f2e",
+    "day_of_week": "Monday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "1991c226-2b8a-49f3-a49b-d41b9f5952cc",
+    "day_of_week": "Monday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "874553d2-aca8-434a-86eb-6361201504b7",
+    "day_of_week": "Monday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "ebbc08b4-f200-498b-b5bf-7dbfc0730e25",
+    "day_of_week": "Monday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "bf69cb90-f83c-4ad2-95a4-bc1d11a6cc45",
+    "day_of_week": "Monday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "c5545dd7-7b3c-47ed-b29c-9f8fc2b74d04",
+    "day_of_week": "Monday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "dc094bfd-a9e3-44bd-bd2c-46bd81e54a7e",
+    "day_of_week": "Monday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "990374c1-b363-4609-b118-aaf8b37c7fa1",
+    "day_of_week": "Monday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "4eb5d481-23e8-48e5-85af-9612acff3cd4",
+    "day_of_week": "Monday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "a23b869d-e0af-41db-ae93-ee905c788856",
+    "day_of_week": "Monday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "8c77b9ed-d2ee-468e-b09d-8e0d21eff49b",
+    "day_of_week": "Monday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "6d97b28c-0958-4645-a92f-e897caad741d",
+    "day_of_week": "Monday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "76c89ad6-bfa2-47d1-981d-f4b8326af91f",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "33f101cc-b029-4ecf-bf90-1b57557e9c49",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "3d14ee66-7694-4b8e-9181-c0c3f7a38812",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f9d0a9c7-32df-4dbe-ad2a-6424a87790bb",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "4d6800f7-1b6b-4163-b08a-b1b7cfde8873",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2849efaa-0fdc-48b1-93cf-e0a498e31008",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6a146284-af9d-4d35-87a2-75532b8436db",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "79e832cd-4b02-4db0-ad33-81e08c9bda08",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "1539865d-2b66-4e21-ab60-f42aa45a8a42",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "76930b5f-7936-401a-b1c7-27bc615f1420",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "7a88b02e-f399-45dc-92eb-e074361c870f",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "fafdb9f2-24a8-4c2f-bef6-4ebef8b0415a",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "aef18175-3a26-49be-bbea-7f2075e1a1b2",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "7a89cc3d-d28f-4f88-93b7-54796a9073cf",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2aeceb84-6571-43dc-94c7-44c5a82e86f9",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "857e70d8-2082-42c7-a1e8-3e9d0d2ebcd0",
+    "day_of_week": "Monday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "89afc232-de69-4048-9c24-f08f5344b8f4",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f9918078-eb81-41bf-82b4-6fd61cbccbd9",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "9960485e-c2d2-433b-8a05-9e6dee1c48cb",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "757a406e-7707-4685-b11f-48dbf57410bf",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c4c7da3c-b3b4-404d-b874-00e97c2d3dda",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "b000717a-fee4-4cb7-ba56-d9309345536d",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "13ee208f-f16a-4c5e-9447-c332d343a8a4",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f52048f3-e501-4bd9-94f5-445ab6cd4a37",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "b30dced2-b50b-4dd4-a989-e3c42c6b3c9e",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "e25d1ec9-5b74-4966-aec4-ba3519baae76",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f76386ee-c5c6-4086-b81e-f4afd5a1c3e6",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c505fa52-875e-4154-8d2c-f609b9b6668d",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "1403c860-2d82-498b-abdb-c64f172a6c6c",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "9d31aaf3-4e9d-49b7-beb6-c8048b40ac21",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f9588729-a911-4a03-9511-561d1d8fffec",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "15f30f10-1973-49e5-8b2a-f92a8be16629",
+    "day_of_week": "Monday",
+    "start_time": "9:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "9f905503-8c2c-41a4-b3d6-0f559a15bd58",
+    "day_of_week": "Thursday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "5bae9405-189f-4db7-a3a1-ab8e01058318",
+    "day_of_week": "Thursday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "daca3da2-1197-4030-9ef7-578cb959955c",
+    "day_of_week": "Thursday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "0d8faf20-4f47-4b9d-b079-d6b9e09eec0a",
+    "day_of_week": "Thursday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": "TCH002"
+  },
+  {
+    "id": "c40625b2-183f-4a1c-a7e0-4426e4e1cc79",
+    "day_of_week": "Thursday",
+    "start_time": "10:00 AM",
+    "subject_code": "S614BLH61",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "7c29f45c-df1b-46a2-b8c3-736f25c7589a",
+    "day_of_week": "Thursday",
+    "start_time": "10:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "46563939-3ab5-4569-a479-958d2af07a13",
+    "day_of_week": "Thursday",
+    "start_time": "10:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "3c9bdcd0-795f-4166-a306-8c5077b8210e",
+    "day_of_week": "Thursday",
+    "start_time": "10:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "807cc378-baee-4caa-aa38-13a4c184089f",
+    "day_of_week": "Thursday",
+    "start_time": "10:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "69d95129-d838-4f78-8ce9-a17d56261951",
+    "day_of_week": "Thursday",
+    "start_time": "10:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "7a561180-cb77-4329-9479-7b2762224416",
+    "day_of_week": "Thursday",
+    "start_time": "10:00:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "69e0db8a-3bb4-46a0-ab66-c828b0d27106",
+    "day_of_week": "Thursday",
+    "start_time": "11:15 AM",
+    "subject_code": "SCSB3855",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "85e86c3a-b179-468a-8f77-7280046e8e72",
+    "day_of_week": "Thursday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "52bbf286-f002-4f48-9f57-f8861495f70f",
+    "day_of_week": "Thursday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "c5c51028-2150-4534-8068-580cc5e39980",
+    "day_of_week": "Thursday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "b381fe7a-47b9-4c80-b8ec-d0636f851edc",
+    "day_of_week": "Thursday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "7c8671b3-5ce2-4cee-afa5-d4892edd4b13",
+    "day_of_week": "Thursday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "9d172653-6eff-47b7-9095-1ec752324db5",
+    "day_of_week": "Thursday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "72257e59-9eaf-4c6b-be9c-9fe8e5e8420e",
+    "day_of_week": "Thursday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "263d1c46-bd74-40ff-a9c2-61be1b7edeaf",
+    "day_of_week": "Thursday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "e4496c7e-7174-4f94-b51a-0968dcb1d45c",
+    "day_of_week": "Thursday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "d745ccea-7279-416f-ae0b-3da046c1b9a1",
+    "day_of_week": "Thursday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "6ea47072-cd14-4411-9e1f-83173d27d833",
+    "day_of_week": "Thursday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "2337aaef-bd54-4355-a0ff-40217148e48b",
+    "day_of_week": "Thursday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "e70d84de-5268-4eab-81a0-9858e4036ea8",
+    "day_of_week": "Thursday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "d369fcc7-7d1b-4a74-a262-9883aed1e6ac",
+    "day_of_week": "Thursday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "53017fcf-22d2-4365-8bda-15beb8d83acc",
+    "day_of_week": "Thursday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "c21dc0fe-7361-4b72-9d81-8b35e7c4c04e",
+    "day_of_week": "Thursday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "df0a7a59-48dc-4f8f-b25a-9ddfa543598d",
+    "day_of_week": "Thursday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "96d2c6ff-f800-438e-bd9c-357b8b81a7a2",
+    "day_of_week": "Thursday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": null
+  },
+  {
+    "id": "0e74b5a6-df01-4c8c-951a-1f2ab9e05bc5",
+    "day_of_week": "Thursday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BIPROJ",
+    "teacher_uid": "TCH002"
+  },
+  {
+    "id": "5cf69d2f-dffb-4b8e-95c9-1f7f3547cace",
+    "day_of_week": "Tuesday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "65d60f52-1583-4eb8-b4f1-ea8c51b2b979",
+    "day_of_week": "Tuesday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "5d832266-deaa-44cd-a60a-95c67ae009ab",
+    "day_of_week": "Tuesday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "bb910a1d-4293-46ea-9f67-fed6eface5d7",
+    "day_of_week": "Tuesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S614BLH61",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "6f96e71c-6f73-4903-997a-1f4b3369a053",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6f7fe5fe-d27d-459d-b236-87144808920f",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2c9c5fad-bf22-43c6-a599-39ec236750a1",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "7f699f09-11bb-482c-b557-371e2025e219",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c0c48729-adfd-45fe-8eb3-79cc2f5d365e",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "65063e33-33e6-4dd8-9daa-efda75cc4fbf",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c73c7e2b-1e1e-499f-bd56-893292a22892",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "4b5c41b6-df8f-4fe5-b176-6605d991cbb2",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c35f9259-cb7f-484d-874e-5f29a812f520",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "44a95a14-1beb-4d19-bd8f-22a4180f9a8e",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "8b4e487d-b417-44f8-8250-933724bc1812",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "d2f45fc7-5547-4675-9255-b6fb46b21154",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "a3d9312e-f5f8-487d-8862-301f177cede0",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "32163921-55a7-4609-a96e-0218f3d48c4a",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6fccd4b9-5ced-46ba-a3b1-8a0731e870d5",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "af776e88-7e76-4ac8-bcc3-ddc9625bd151",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00 AM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "94b62c3c-7eea-47d6-804e-396c24ce9f51",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "328e5a00-d7bf-4d8a-8d1a-bedce0f19325",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "69657e17-d6c4-4a7d-83e2-c0551f267958",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "c65d0bc0-0092-47fc-8911-8a67827b0fc9",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "179e3450-12d1-4c56-a811-a444d301ffd2",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "73dc4622-7d18-46cb-a8f7-7b757893888b",
+    "day_of_week": "Tuesday",
+    "start_time": "10:00:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "81d6d23b-c2ac-42be-a7b0-1511de489a0d",
+    "day_of_week": "Tuesday",
+    "start_time": "11:15 AM",
+    "subject_code": "SCSB3855",
+    "teacher_uid": "TCH003"
+  },
+  {
+    "id": "0c227803-d236-495d-8121-11196f68f3bd",
+    "day_of_week": "Tuesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "c72c2754-7973-4b64-86b2-23d82160a0f7",
+    "day_of_week": "Tuesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "c792b56b-4b4e-4e08-b125-35265ee61c73",
+    "day_of_week": "Tuesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "5a723c96-50d9-42be-9fb6-6144dd2b41bb",
+    "day_of_week": "Tuesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "113c5352-bbc7-4309-92d0-fb41b3722b93",
+    "day_of_week": "Tuesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "61f0b237-5b33-47e0-a729-3b43073f8a79",
+    "day_of_week": "Tuesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB3855",
+    "teacher_uid": null
+  },
+  {
+    "id": "654065fd-1e42-43de-8af1-6eb4bb0d3472",
+    "day_of_week": "Tuesday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "9c798ba3-ccae-4390-ba70-4a58d8c11d91",
+    "day_of_week": "Tuesday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "c1fbe5c7-9a94-466b-9189-5c591ae252b5",
+    "day_of_week": "Tuesday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "9f9f7014-dd8e-4d66-a80a-cd05067703f5",
+    "day_of_week": "Tuesday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "6a5eafa8-d125-4c5e-88f4-d5ec5e45c750",
+    "day_of_week": "Tuesday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "87b4d045-627b-461d-9668-9e54c0496a31",
+    "day_of_week": "Tuesday",
+    "start_time": "13:15:00",
+    "subject_code": "S614BLH61",
+    "teacher_uid": null
+  },
+  {
+    "id": "31c0df6f-abad-49e5-9bd7-d22423b8a9dc",
+    "day_of_week": "Tuesday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "4ac27676-3817-41d3-8107-e3c49a644e11",
+    "day_of_week": "Tuesday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "baecf171-9941-4a5f-a262-6e7e6891146b",
+    "day_of_week": "Tuesday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "2ff78737-5312-4deb-bfcc-022ab50bdaad",
+    "day_of_week": "Tuesday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "cd67a64e-21f2-4a64-a3e9-c403ea35b950",
+    "day_of_week": "Tuesday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "bfa5f281-267f-4ad0-a11e-045ff0c630ea",
+    "day_of_week": "Tuesday",
+    "start_time": "14:15:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "791bf394-bcd6-42f4-a90a-2d13c710c4fe",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "ec5f3554-1add-411e-9dff-28c72c9eafc1",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "cc76c73f-40f8-4af6-b2e5-d200471d9ec2",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "8d1aea21-a7b8-4da8-a38a-03497d1df30d",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6591d03d-8317-4710-9e59-2c783de5ffcd",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "d1110142-6bc0-4c2c-9c3b-5b033bf84592",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "112157a2-60ad-4090-ae2a-2fa8d3d01674",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "56591d33-bdcd-4fad-9b12-1066c85a5d02",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "3fb39502-1e10-46bd-bfb3-faf905985e56",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "20b1d634-6d4f-465e-a805-d9491955903f",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c1853557-7ab2-4886-a2a7-f090532f8885",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "fc4d2c73-a4f5-44af-95f3-b6b95d6e2864",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "82cd16c2-9a4d-45db-b663-400016130176",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "17d3981a-6cec-45c3-b9b8-54a7a413c529",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "26012c07-7c09-4b3c-a69a-4a7b16d4268d",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "4f69ca82-f83d-4832-9542-1670f30718e8",
+    "day_of_week": "Tuesday",
+    "start_time": "2:15 PM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f5cbcc23-d018-4b1c-a2ce-f33623333eb5",
+    "day_of_week": "Wednesday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "aad8391f-475e-4f13-8d37-0c9b15e6e6c0",
+    "day_of_week": "Wednesday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "e0c7b6f9-e744-45d8-9fe5-c175d2571feb",
+    "day_of_week": "Wednesday",
+    "start_time": "09:00:00",
+    "subject_code": "SCSBLH63",
+    "teacher_uid": null
+  },
+  {
+    "id": "8a919c38-0a43-4606-9194-a855ba49c527",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "04d43922-e15f-4fa0-af9c-f371c43845de",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "f1b23c2c-807b-4845-886b-129fb095e3f5",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "57514e68-f7e3-4f83-b0ba-4e5e8515cb98",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "7445d6af-9176-4859-8733-996038c862d8",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "cd4fe298-16dd-4e5b-8b6d-882994399cba",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "ff996900-1876-4e8b-a90e-ad10d72a55b0",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6975f38a-308a-4741-aefa-55ffd6fe6861",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "c77fc236-67c8-4bc4-bb9d-522af7c102ee",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6fe4d700-39be-4002-82b4-ed89132b57ad",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "14c5a96b-b4c3-4d91-b41f-6c3de296bbf8",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "58af56bb-29c2-48e4-87e9-74ed0c97ef05",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "1b08933f-8d4c-4764-ac77-37fc3052ef55",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "17ec0dfc-5bbf-4b64-a0bc-5df52107ddc4",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "30af50c1-ed44-4eb8-a474-39ad85f68e4a",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "1c8331d7-4dd9-4a43-81c9-6c6042b70445",
+    "day_of_week": "Wednesday",
+    "start_time": "1:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "73f3470b-772e-4d14-8920-2606a6404f86",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "a930dfad-9495-4e5e-87af-6ef8c249d11e",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "45d0229e-644e-4856-88df-985efcb8b964",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2d27647c-1ef4-4a8c-932e-9aa61a7179c2",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2fc41b00-d23e-4131-9578-53f7c0f5ad59",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "ed3e336d-15e3-4539-b4f1-fa0d589758bf",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "7aa54abb-071e-4ec6-a947-250b89d9face",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "2335b8b0-97a8-449b-af7e-45b062740172",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "4a71b795-c058-4ac0-9941-ced4e9c653e2",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "26239aca-85cb-4438-b109-34427e4434e8",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "0084725a-d17c-447d-ad82-3244b47f48f2",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "d1f7ad68-da4f-4884-a42f-c969786817f5",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "3a67def0-1d29-4ecf-b5f9-5b607d9f62a3",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "b9c32dd9-ae30-42cf-b5b0-0036a1f19e9c",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "80158f72-38e8-4daa-8f24-2af96b962c7e",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "0b49db00-c11e-4283-b229-722db81713fe",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00 AM",
+    "subject_code": "SCSBOB1661",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "8ea55126-3fc3-41f0-8370-303bc5d6df2d",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "32de2f6f-d6ba-4b57-97b1-0d34e6e7f01b",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "71a39b1d-04aa-4e61-a894-dcbfafa881a5",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "c454a4d7-6ef7-4fca-881f-4fedb53f581e",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "285fb9f1-6efc-4b8e-8892-acab72154d0c",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "e3b60ec0-33e8-4229-a4d0-edc3e6c23926",
+    "day_of_week": "Wednesday",
+    "start_time": "10:00:00",
+    "subject_code": "SCSB081661",
+    "teacher_uid": null
+  },
+  {
+    "id": "b8da7f44-2d6b-4063-804a-5a0daaa76ce7",
+    "day_of_week": "Wednesday",
+    "start_time": "11:15 AM",
+    "subject_code": "SCSB1662",
+    "teacher_uid": "TCH002"
+  },
+  {
+    "id": "bbcc2801-d79d-4749-b687-e3f6b657a845",
+    "day_of_week": "Wednesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "05b29b89-ff14-4612-8c7c-d1f723a0d525",
+    "day_of_week": "Wednesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "66c8409d-8988-49d9-97b1-978dec7290a4",
+    "day_of_week": "Wednesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "af591d31-c40c-4df2-91d7-996be72417f5",
+    "day_of_week": "Wednesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "656241cd-750a-46d5-b324-111f9c3e3fdd",
+    "day_of_week": "Wednesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "78320582-8123-47db-bb79-74fe45619c5f",
+    "day_of_week": "Wednesday",
+    "start_time": "11:15:00",
+    "subject_code": "SCSB1662",
+    "teacher_uid": null
+  },
+  {
+    "id": "0b6024ff-40da-42ce-bc82-778d8b64a20c",
+    "day_of_week": "Wednesday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "0fd21aa1-2f7a-4fca-af12-0143d523b6c3",
+    "day_of_week": "Wednesday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "e7c011d0-92c9-4f52-bca5-70eb751aff04",
+    "day_of_week": "Wednesday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "6693f6f5-b498-4d93-81bd-83f39573d76e",
+    "day_of_week": "Wednesday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "65361ad6-7054-4740-8e7e-2bf12679cbaa",
+    "day_of_week": "Wednesday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "a9c15b7c-4acb-4ed8-a408-5ea4d4702eb1",
+    "day_of_week": "Wednesday",
+    "start_time": "13:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "077bab33-4dcc-47bd-ac6a-e4692c674c67",
+    "day_of_week": "Wednesday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "2c893d64-dff0-4606-9100-0ef5596f6b18",
+    "day_of_week": "Wednesday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "7cdeaeb8-5207-4b5e-8245-79016ab3b667",
+    "day_of_week": "Wednesday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "93dd806e-45b1-4ea4-a09c-c5229d47029f",
+    "day_of_week": "Wednesday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "3f91b1ee-606a-4552-a169-25f5d571f97d",
+    "day_of_week": "Wednesday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "d2f8b01c-4805-4415-ac31-c635f1d6572f",
+    "day_of_week": "Wednesday",
+    "start_time": "14:15:00",
+    "subject_code": "S613BLH62",
+    "teacher_uid": null
+  },
+  {
+    "id": "4e09268e-f076-4d55-9a7b-2c788e6abcf0",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "5ad9680a-aa39-47f1-b49c-22589ce698ef",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "a5bf6f9a-3eb8-4a53-aa43-50721b7d93f1",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "0265f923-d0f3-4a42-83f2-ecc834055dbb",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "939d680e-06f5-4c66-a1d2-7217da4d01b7",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "e3dbf173-3ec4-45d9-bb2d-cb83fa47e8c1",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "3f950314-8130-423e-b27d-89d7a2bf94b8",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "70f0d161-103c-413e-9691-2504b23a35d6",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "1163554a-6b72-4127-ada8-320ec0db03a9",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "fa3b46dc-9ed6-44f8-a96f-8bb4ad681368",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "426aa71a-67d6-418f-93ff-d8bb96d12579",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "cc85499c-9461-4857-a05e-8fcb6b98b283",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "63aa5507-0b74-4408-ab28-3ffc1181d654",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "599ec8fe-1664-4245-b95b-a636e63aa611",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "6a80409c-f6f3-46eb-87b8-52335c82a798",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  },
+  {
+    "id": "0eb39a59-cfa9-43b5-8a27-e1aafb96ac25",
+    "day_of_week": "Wednesday",
+    "start_time": "2:15 PM",
+    "subject_code": "S613BLH62",
+    "teacher_uid": "TCH001"
+  }
+]

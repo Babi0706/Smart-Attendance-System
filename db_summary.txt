@@ -1,0 +1,39 @@
+--- SUBJECTS ---
+CODE: SCSBOB1661 | NAME: Operating Systems
+CODE: S613BLH62 | NAME: Data Structures
+CODE: SCSB1662 | NAME: Database Systems
+CODE: S614BLH61 | NAME: Computer Networks
+CODE: SCSB081661 | NAME: Operating Systems
+CODE: SCSBLH63 | NAME: Smart Contracts
+CODE: SCSB3855 | NAME: Discrete Mathematics
+CODE: S613BIPROJ | NAME: Major Project
+
+--- TEACHERS ---
+
+--- ALL USERS ---
+UID: ADM001 | NAME: D.Chathurveda Reddy | ROLE: ADMIN
+UID: STU001 | NAME: S.Shashank | ROLE: STUDENT
+UID: STU002 | NAME: N.Mohit Bhanu teja | ROLE: STUDENT
+UID: STU003 | NAME: P.Santosh Nagendra Reddy | ROLE: STUDENT
+UID: STU004 | NAME: N.Gangadhar | ROLE: STUDENT
+UID: STU005 | NAME: P.Shankar | ROLE: STUDENT
+UID: STU006 | NAME: K.Hasif Basha  | ROLE: STUDENT
+UID: STU007 | NAME: P.Anwar Basha | ROLE: STUDENT
+UID: STU008 | NAME: R.Raja | ROLE: STUDENT
+UID: STU009 | NAME: K.Sai Krishna | ROLE: STUDENT
+UID: STU010 | NAME: G.Barathsri | ROLE: STUDENT
+UID: STU011 | NAME: S.Sagar Prakash | ROLE: STUDENT
+UID: STU012 | NAME: A.kanisshkharan | ROLE: STUDENT
+UID: STU013 | NAME: K.Trivikram | ROLE: STUDENT
+UID: STU014 | NAME: K.Sriram Durga Rao | ROLE: STUDENT
+UID: STU015 | NAME: S.Karthick | ROLE: STUDENT
+UID: STU016 | NAME: P.Vijay Kumar | ROLE: STUDENT
+UID: STU017 | NAME: N.Subrahmanyam | ROLE: STUDENT
+UID: STU018 | NAME: G.Mallikarjun | ROLE: STUDENT
+UID: STU019 | NAME: Ridam Kumar | ROLE: STUDENT
+UID: STU020 | NAME: Shaik Jasmin | ROLE: STUDENT
+UID: STU021 | NAME: P.Pavithra | ROLE: STUDENT
+UID: STU022 | NAME: M.Sahasra | ROLE: STUDENT
+UID: STU023 | NAME: K.Sejeeswaran | ROLE: STUDENT
+UID: STU024 | NAME: J.Hemapriya | ROLE: STUDENT
+UID: STU025 | NAME: T.Bharath Sai | ROLE: STUDENT
