@@ -3,7 +3,7 @@ import * as faceapi from 'face-api.js';
 let modelsLoaded = false;
 let loadingPromise = null;
 
-const MODEL_URL = '/models';
+const MODEL_URL = `${import.meta.env.BASE_URL}models`;
 
 /**
  * Load face detection & recognition models (once)

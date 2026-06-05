@@ -946,7 +946,7 @@ export default function App() {
             <GlobalStyles />
             {/* Global Background Image - High Clarity Implementation */}
             <img
-                src="/campus-bg.png"
+                src={`${import.meta.env.BASE_URL}campus-bg.png`}
                 alt="Background"
                 style={{
                     position: 'fixed',
